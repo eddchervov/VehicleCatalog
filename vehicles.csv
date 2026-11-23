@@ -173,6 +173,7 @@ passenger_car,Audi,e-tron GT
 passenger_car,Audi,e-tron S
 passenger_car,Audi,e-tron S Sportback
 passenger_car,Audi,e-tron Sportback
+passenger_car,Audi,E5 Sportback
 passenger_car,Audi,Front
 passenger_car,Audi,NSU RO 80
 passenger_car,Audi,Q2
@@ -595,6 +596,7 @@ passenger_car,Changan,CS95
 passenger_car,Changan,CS95 Plus
 passenger_car,Changan,CX20
 passenger_car,Changan,Deepal G318
+passenger_car,Changan,Deepal L06
 passenger_car,Changan,Deepal L07
 passenger_car,Changan,Deepal S05
 passenger_car,Changan,Deepal S07 (S7)
@@ -725,6 +727,7 @@ passenger_car,Chevrolet,Deluxe
 passenger_car,Chevrolet,El Camino
 passenger_car,Chevrolet,Epica
 passenger_car,Chevrolet,Equinox
+passenger_car,Chevrolet,Equinox EV
 passenger_car,Chevrolet,Evanda
 passenger_car,Chevrolet,Express
 passenger_car,Chevrolet,Fleetmaster
@@ -758,6 +761,7 @@ passenger_car,Chevrolet,S-10 Pickup
 passenger_car,Chevrolet,Sail
 passenger_car,Chevrolet,Seeker
 passenger_car,Chevrolet,Silverado
+passenger_car,Chevrolet,Silverado EV
 passenger_car,Chevrolet,Sonic
 passenger_car,Chevrolet,Spark
 passenger_car,Chevrolet,Spark EUV
@@ -882,6 +886,7 @@ passenger_car,Cupra,Ateca
 passenger_car,Cupra,Born
 passenger_car,Cupra,Formentor
 passenger_car,Cupra,Leon
+passenger_car,Cupra,Raval
 passenger_car,Cupra,Tavascan
 passenger_car,Cupra,Terramar
 passenger_car,Dacia,1300
@@ -1456,6 +1461,7 @@ passenger_car,GAC Aion,Hyptec GT (Hyper GT)
 passenger_car,GAC Aion,Hyptec HL
 passenger_car,GAC Aion,Hyptec HT (Hyper HT)
 passenger_car,GAC Aion,Hyptec SSR (Hyper SSR)
+passenger_car,GAC Aion,i60
 passenger_car,GAC Aion,LX
 passenger_car,GAC Aion,LX Plus
 passenger_car,GAC Aion,RT
@@ -1885,6 +1891,7 @@ passenger_car,Hyundai,i30 N
 passenger_car,Hyundai,i40
 passenger_car,Hyundai,Inster
 passenger_car,Hyundai,IONIQ
+passenger_car,Hyundai,IONIQ 3
 passenger_car,Hyundai,IONIQ 5
 passenger_car,Hyundai,IONIQ 5 N
 passenger_car,Hyundai,IONIQ 6
@@ -2155,6 +2162,7 @@ passenger_car,Kia,Clarus
 passenger_car,Kia,Concord
 passenger_car,Kia,Elan
 passenger_car,Kia,Enterprise
+passenger_car,Kia,EV2
 passenger_car,Kia,EV3
 passenger_car,Kia,EV4
 passenger_car,Kia,EV5
@@ -2333,15 +2341,22 @@ passenger_car,Landwind,X5
 passenger_car,Landwind,X6
 passenger_car,Landwind,X7
 passenger_car,Landwind,Х9
+passenger_car,Leapmotor,A05
+passenger_car,Leapmotor,A10 (B03X)
 passenger_car,Leapmotor,B01
+passenger_car,Leapmotor,B05 (Lafa5)
 passenger_car,Leapmotor,B10
 passenger_car,Leapmotor,C01
 passenger_car,Leapmotor,C10
 passenger_car,Leapmotor,C11
 passenger_car,Leapmotor,C16
 passenger_car,Leapmotor,D19
+passenger_car,Leapmotor,D99
 passenger_car,Leapmotor,S01
 passenger_car,Leapmotor,T03
+passenger_car,LEPAS,L4
+passenger_car,LEPAS,L6
+passenger_car,LEPAS,L8
 passenger_car,LEVC,L380
 passenger_car,Lexus,CT
 passenger_car,Lexus,ES
@@ -2459,6 +2474,7 @@ passenger_car,M-Hero,I
 passenger_car,M-Hero,M817
 passenger_car,Maextro,S800
 passenger_car,Mahindra,Armada
+passenger_car,Mahindra,BE 6
 passenger_car,Mahindra,Bolero
 passenger_car,Mahindra,CJ-3
 passenger_car,Mahindra,CL
@@ -2470,6 +2486,9 @@ passenger_car,Mahindra,Scorpio
 passenger_car,Mahindra,Thar
 passenger_car,Mahindra,Verito
 passenger_car,Mahindra,Voyager
+passenger_car,Mahindra,XEV 9e
+passenger_car,Mahindra,XEV 9S
+passenger_car,Mahindra,XUV 3XO
 passenger_car,Mahindra,Xylo
 passenger_car,Maple,X3 Pro
 passenger_car,Marcos,GTS
@@ -2819,6 +2838,7 @@ passenger_car,Microcar,M.Go
 passenger_car,Microcar,M8
 passenger_car,Microcar,MC
 passenger_car,Microcar,Virgo
+passenger_car,Microlino,Microlino
 passenger_car,Minelli,TF 1800
 passenger_car,Mini,Aceman
 passenger_car,Mini,Cabrio
@@ -2958,11 +2978,14 @@ passenger_car,Nio,EL6
 passenger_car,Nio,ES6
 passenger_car,Nio,ES7
 passenger_car,Nio,ES8
+passenger_car,Nio,ES9
 passenger_car,Nio,ET5
 passenger_car,Nio,ET7
 passenger_car,Nio,ET9
 passenger_car,Nio,Firefly
 passenger_car,Nio,Onvo L60
+passenger_car,Nio,Onvo L80
+passenger_car,Nio,Onvo L90
 passenger_car,Nissan,100NX
 passenger_car,Nissan,180SX
 passenger_car,Nissan,200SX
@@ -3205,12 +3228,18 @@ passenger_car,Pagani,Zonda
 passenger_car,Panoz,Esperante
 passenger_car,Panoz,Roadster
 passenger_car,Perodua,Alza
+passenger_car,Perodua,Aruz
+passenger_car,Perodua,Ativa
+passenger_car,Perodua,Axia
+passenger_car,Perodua,Bezza
 passenger_car,Perodua,Kancil
 passenger_car,Perodua,Kelisa
 passenger_car,Perodua,Kembara
 passenger_car,Perodua,Kenari
 passenger_car,Perodua,MyVi
 passenger_car,Perodua,Nautica
+passenger_car,Perodua,QV-E
+passenger_car,Perodua,Traz
 passenger_car,Perodua,Viva
 passenger_car,Peugeot,1007
 passenger_car,Peugeot,104
@@ -3296,6 +3325,7 @@ passenger_car,Polestar,1
 passenger_car,Polestar,2
 passenger_car,Polestar,3
 passenger_car,Polestar,4
+passenger_car,Polestar,5
 passenger_car,Pontiac,6000
 passenger_car,Pontiac,Aztek
 passenger_car,Pontiac,Bonneville
@@ -3351,6 +3381,8 @@ passenger_car,Porsche,Taycan
 passenger_car,Premier,118NE
 passenger_car,Premier,Padmini
 passenger_car,Proton,Arena
+passenger_car,Proton,e.MAS 5
+passenger_car,Proton,e.MAS 7
 passenger_car,Proton,Exora
 passenger_car,Proton,Gen-2
 passenger_car,Proton,Inspira
@@ -3360,6 +3392,7 @@ passenger_car,Proton,Perdana
 passenger_car,Proton,Persona
 passenger_car,Proton,Preve
 passenger_car,Proton,Putra
+passenger_car,Proton,S70
 passenger_car,Proton,Saga
 passenger_car,Proton,Satria
 passenger_car,Proton,Savvy
@@ -3368,6 +3401,7 @@ passenger_car,Proton,Waja
 passenger_car,Proton,Wira (400 Series)
 passenger_car,Proton,X50
 passenger_car,Proton,X70
+passenger_car,Proton,X90
 passenger_car,Puch,G-modell
 passenger_car,Puch,Pinzgauer
 passenger_car,Puma,GTB
@@ -3486,6 +3520,7 @@ passenger_car,Rising Auto,Marvel R
 passenger_car,Rising Auto,R7
 passenger_car,Rivian,R1S
 passenger_car,Rivian,R1T
+passenger_car,Rivian,R2
 passenger_car,Roewe,750
 passenger_car,Roewe,Clever
 passenger_car,Roewe,D6
@@ -3620,6 +3655,9 @@ passenger_car,Shanghai Maple,C51
 passenger_car,Shanghai Maple,C52
 passenger_car,Shanghai Maple,C61
 passenger_car,Shanghai Maple,C81
+passenger_car,Shangjie,H5
+passenger_car,Shangjie,Z7
+passenger_car,Shangjie,Z7T
 passenger_car,ShuangHuan,Noble
 passenger_car,ShuangHuan,Sceo
 passenger_car,Simca,1300/1500
@@ -3634,6 +3672,7 @@ passenger_car,Skoda,Enyaq
 passenger_car,Skoda,Enyaq Coupe
 passenger_car,Skoda,Enyaq Coupe RS
 passenger_car,Skoda,Enyaq RS
+passenger_car,Skoda,Epiq
 passenger_car,Skoda,Fabia
 passenger_car,Skoda,Fabia RS
 passenger_car,Skoda,Favorit
@@ -3833,17 +3872,21 @@ passenger_car,Tank,300
 passenger_car,Tank,400
 passenger_car,Tank,500
 passenger_car,Tank,700
+passenger_car,Tata,Altroz
 passenger_car,Tata,Aria
 passenger_car,Tata,Curvv
 passenger_car,Tata,Estate
+passenger_car,Tata,Harrier
 passenger_car,Tata,Indica
 passenger_car,Tata,Indigo
 passenger_car,Tata,Nano
+passenger_car,Tata,Punch
 passenger_car,Tata,Safari
 passenger_car,Tata,Sierra
 passenger_car,Tata,Sumo
 passenger_car,Tata,Sumo Grande
 passenger_car,Tata,Telcoline
+passenger_car,Tata,Tiago
 passenger_car,Tata,Xenon
 passenger_car,Tatra,57
 passenger_car,Tatra,77
@@ -3862,6 +3905,7 @@ passenger_car,TENET,T8
 passenger_car,TENET,T9
 passenger_car,TENET Plus,L4
 passenger_car,TENET Plus,L6
+passenger_car,Tesla,Cybercab
 passenger_car,Tesla,Cybertruck
 passenger_car,Tesla,Model 3
 passenger_car,Tesla,Model S
@@ -3878,6 +3922,8 @@ passenger_car,Tofas,Murat 124
 passenger_car,Tofas,Murat 131
 passenger_car,Tofas,Sahin
 passenger_car,Tofas,Serce
+passenger_car,Togg,T10F
+passenger_car,Togg,T10X
 passenger_car,Toyota,2000GT
 passenger_car,Toyota,4Runner
 passenger_car,Toyota,Allex
@@ -4146,8 +4192,12 @@ passenger_car,VGV,U70
 passenger_car,VGV,U70 Pro
 passenger_car,VGV,U75 Plus
 passenger_car,VGV,VX7
+passenger_car,VinFast,Limo Green
 passenger_car,VinFast,LUX A2.0
 passenger_car,VinFast,LUX SA2.0
+passenger_car,VinFast,VF 2
+passenger_car,VinFast,VF 3
+passenger_car,VinFast,VF 5
 passenger_car,VinFast,VF6
 passenger_car,VinFast,VF7
 passenger_car,VinFast,VF8
@@ -4363,6 +4413,8 @@ passenger_car,Xpeng,G3
 passenger_car,Xpeng,G6
 passenger_car,Xpeng,G7
 passenger_car,Xpeng,G9
+passenger_car,Xpeng,G9L
+passenger_car,Xpeng,L03
 passenger_car,Xpeng,Mona M03
 passenger_car,Xpeng,P5
 passenger_car,Xpeng,P7
@@ -4382,6 +4434,7 @@ passenger_car,Zastava,Yugo
 passenger_car,Zeekr,001
 passenger_car,Zeekr,007
 passenger_car,Zeekr,009
+passenger_car,Zeekr,7GT (007 GT)
 passenger_car,Zeekr,7X
 passenger_car,Zeekr,8X
 passenger_car,Zeekr,9X
@@ -4560,6 +4613,7 @@ truck,Freightliner,eCascadia
 truck,Freightliner,EconicSD
 truck,Freightliner,M2 106
 truck,Freightliner,M2 112
+truck,FUSO,eCanter
 truck,Hino,155
 truck,Hino,195
 truck,Hino,258
@@ -4614,6 +4668,7 @@ truck,Mercedes-Benz,Actros
 truck,Mercedes-Benz,Arocs
 truck,Mercedes-Benz,Atego
 truck,Mercedes-Benz,Axor
+truck,Mercedes-Benz,eActros 600
 truck,Mercedes-Benz,Econic
 truck,Mercedes-Benz,Unimog
 truck,Peterbilt,389
@@ -4647,6 +4702,7 @@ truck,Sinotruk,HOWO MAX
 truck,Sinotruk,HOWO T7H
 truck,Sinotruk,SITRAK C7H
 truck,Sinotruk,SITRAK C9H
+truck,Tesla,Semi
 truck,Volvo,FE
 truck,Volvo,FH
 truck,Volvo,FH16
@@ -4737,6 +4793,7 @@ motorcycle,Harley-Davidson,Sportster S
 motorcycle,Harley-Davidson,Street Bob
 motorcycle,Harley-Davidson,Street Glide
 motorcycle,Honda,Africa Twin
+motorcycle,Honda,CB1000 Hornet
 motorcycle,Honda,CB500F
 motorcycle,Honda,CB650R
 motorcycle,Honda,CBR1000RR-R Fireblade
@@ -4745,7 +4802,9 @@ motorcycle,Honda,CRF1100L
 motorcycle,Honda,CRF300L
 motorcycle,Honda,Gold Wing
 motorcycle,Honda,NC750X
+motorcycle,Honda,NT1100
 motorcycle,Honda,Rebel 500
+motorcycle,Honda,XL750 Transalp
 motorcycle,Husqvarna,701 Enduro
 motorcycle,Husqvarna,701 Supermoto
 motorcycle,Husqvarna,FE 350
@@ -4828,8 +4887,10 @@ motorcycle,Yamaha,MT-09
 motorcycle,Yamaha,MT-10
 motorcycle,Yamaha,R7
 motorcycle,Yamaha,Tenere 700
+motorcycle,Yamaha,Tracer 7
 motorcycle,Yamaha,Tracer 9
 motorcycle,Yamaha,XSR700
+motorcycle,Yamaha,XSR900 GP
 motorcycle,Yamaha,YZF-R1
 motorcycle,Yamaha,YZF-R6
 atv,Arctic Cat,Alterra 300

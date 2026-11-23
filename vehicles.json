@@ -872,6 +872,11 @@
   {
     "category": "passenger_car",
     "brand": "Audi",
+    "model": "E5 Sportback"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Audi",
     "model": "Front"
   },
   {
@@ -2982,6 +2987,11 @@
   {
     "category": "passenger_car",
     "brand": "Changan",
+    "model": "Deepal L06"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Changan",
     "model": "Deepal L07"
   },
   {
@@ -3632,6 +3642,11 @@
   {
     "category": "passenger_car",
     "brand": "Chevrolet",
+    "model": "Equinox EV"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Chevrolet",
     "model": "Evanda"
   },
   {
@@ -3793,6 +3808,11 @@
     "category": "passenger_car",
     "brand": "Chevrolet",
     "model": "Silverado"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Chevrolet",
+    "model": "Silverado EV"
   },
   {
     "category": "passenger_car",
@@ -4413,6 +4433,11 @@
     "category": "passenger_car",
     "brand": "Cupra",
     "model": "Leon"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Cupra",
+    "model": "Raval"
   },
   {
     "category": "passenger_car",
@@ -7287,6 +7312,11 @@
   {
     "category": "passenger_car",
     "brand": "GAC Aion",
+    "model": "i60"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "GAC Aion",
     "model": "LX"
   },
   {
@@ -9432,6 +9462,11 @@
   {
     "category": "passenger_car",
     "brand": "Hyundai",
+    "model": "IONIQ 3"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Hyundai",
     "model": "IONIQ 5"
   },
   {
@@ -10782,6 +10817,11 @@
   {
     "category": "passenger_car",
     "brand": "Kia",
+    "model": "EV2"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Kia",
     "model": "EV3"
   },
   {
@@ -11672,7 +11712,22 @@
   {
     "category": "passenger_car",
     "brand": "Leapmotor",
+    "model": "A05"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Leapmotor",
+    "model": "A10 (B03X)"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Leapmotor",
     "model": "B01"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Leapmotor",
+    "model": "B05 (Lafa5)"
   },
   {
     "category": "passenger_car",
@@ -11707,12 +11762,32 @@
   {
     "category": "passenger_car",
     "brand": "Leapmotor",
+    "model": "D99"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Leapmotor",
     "model": "S01"
   },
   {
     "category": "passenger_car",
     "brand": "Leapmotor",
     "model": "T03"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "LEPAS",
+    "model": "L4"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "LEPAS",
+    "model": "L6"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "LEPAS",
+    "model": "L8"
   },
   {
     "category": "passenger_car",
@@ -12302,6 +12377,11 @@
   {
     "category": "passenger_car",
     "brand": "Mahindra",
+    "model": "BE 6"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Mahindra",
     "model": "Bolero"
   },
   {
@@ -12353,6 +12433,21 @@
     "category": "passenger_car",
     "brand": "Mahindra",
     "model": "Voyager"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Mahindra",
+    "model": "XEV 9e"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Mahindra",
+    "model": "XEV 9S"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Mahindra",
+    "model": "XUV 3XO"
   },
   {
     "category": "passenger_car",
@@ -14101,6 +14196,11 @@
   },
   {
     "category": "passenger_car",
+    "brand": "Microlino",
+    "model": "Microlino"
+  },
+  {
+    "category": "passenger_car",
     "brand": "Minelli",
     "model": "TF 1800"
   },
@@ -14797,6 +14897,11 @@
   {
     "category": "passenger_car",
     "brand": "Nio",
+    "model": "ES9"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Nio",
     "model": "ET5"
   },
   {
@@ -14818,6 +14923,16 @@
     "category": "passenger_car",
     "brand": "Nio",
     "model": "Onvo L60"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Nio",
+    "model": "Onvo L80"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Nio",
+    "model": "Onvo L90"
   },
   {
     "category": "passenger_car",
@@ -16032,6 +16147,26 @@
   {
     "category": "passenger_car",
     "brand": "Perodua",
+    "model": "Aruz"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Perodua",
+    "model": "Ativa"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Perodua",
+    "model": "Axia"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Perodua",
+    "model": "Bezza"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Perodua",
     "model": "Kancil"
   },
   {
@@ -16058,6 +16193,16 @@
     "category": "passenger_car",
     "brand": "Perodua",
     "model": "Nautica"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Perodua",
+    "model": "QV-E"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Perodua",
+    "model": "Traz"
   },
   {
     "category": "passenger_car",
@@ -16486,6 +16631,11 @@
   },
   {
     "category": "passenger_car",
+    "brand": "Polestar",
+    "model": "5"
+  },
+  {
+    "category": "passenger_car",
     "brand": "Pontiac",
     "model": "6000"
   },
@@ -16762,6 +16912,16 @@
   {
     "category": "passenger_car",
     "brand": "Proton",
+    "model": "e.MAS 5"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Proton",
+    "model": "e.MAS 7"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Proton",
     "model": "Exora"
   },
   {
@@ -16807,6 +16967,11 @@
   {
     "category": "passenger_car",
     "brand": "Proton",
+    "model": "S70"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Proton",
     "model": "Saga"
   },
   {
@@ -16843,6 +17008,11 @@
     "category": "passenger_car",
     "brand": "Proton",
     "model": "X70"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Proton",
+    "model": "X90"
   },
   {
     "category": "passenger_car",
@@ -17433,6 +17603,11 @@
     "category": "passenger_car",
     "brand": "Rivian",
     "model": "R1T"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Rivian",
+    "model": "R2"
   },
   {
     "category": "passenger_car",
@@ -18106,6 +18281,21 @@
   },
   {
     "category": "passenger_car",
+    "brand": "Shangjie",
+    "model": "H5"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Shangjie",
+    "model": "Z7"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Shangjie",
+    "model": "Z7T"
+  },
+  {
+    "category": "passenger_car",
     "brand": "ShuangHuan",
     "model": "Noble"
   },
@@ -18173,6 +18363,11 @@
     "category": "passenger_car",
     "brand": "Skoda",
     "model": "Enyaq RS"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Skoda",
+    "model": "Epiq"
   },
   {
     "category": "passenger_car",
@@ -19172,6 +19367,11 @@
   {
     "category": "passenger_car",
     "brand": "Tata",
+    "model": "Altroz"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Tata",
     "model": "Aria"
   },
   {
@@ -19187,6 +19387,11 @@
   {
     "category": "passenger_car",
     "brand": "Tata",
+    "model": "Harrier"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Tata",
     "model": "Indica"
   },
   {
@@ -19198,6 +19403,11 @@
     "category": "passenger_car",
     "brand": "Tata",
     "model": "Nano"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Tata",
+    "model": "Punch"
   },
   {
     "category": "passenger_car",
@@ -19223,6 +19433,11 @@
     "category": "passenger_car",
     "brand": "Tata",
     "model": "Telcoline"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Tata",
+    "model": "Tiago"
   },
   {
     "category": "passenger_car",
@@ -19317,6 +19532,11 @@
   {
     "category": "passenger_car",
     "brand": "Tesla",
+    "model": "Cybercab"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Tesla",
     "model": "Cybertruck"
   },
   {
@@ -19393,6 +19613,16 @@
     "category": "passenger_car",
     "brand": "Tofas",
     "model": "Serce"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Togg",
+    "model": "T10F"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Togg",
+    "model": "T10X"
   },
   {
     "category": "passenger_car",
@@ -20737,12 +20967,32 @@
   {
     "category": "passenger_car",
     "brand": "VinFast",
+    "model": "Limo Green"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "VinFast",
     "model": "LUX A2.0"
   },
   {
     "category": "passenger_car",
     "brand": "VinFast",
     "model": "LUX SA2.0"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "VinFast",
+    "model": "VF 2"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "VinFast",
+    "model": "VF 3"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "VinFast",
+    "model": "VF 5"
   },
   {
     "category": "passenger_car",
@@ -21822,6 +22072,16 @@
   {
     "category": "passenger_car",
     "brand": "Xpeng",
+    "model": "G9L"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Xpeng",
+    "model": "L03"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Xpeng",
     "model": "Mona M03"
   },
   {
@@ -21913,6 +22173,11 @@
     "category": "passenger_car",
     "brand": "Zeekr",
     "model": "009"
+  },
+  {
+    "category": "passenger_car",
+    "brand": "Zeekr",
+    "model": "7GT (007 GT)"
   },
   {
     "category": "passenger_car",
@@ -22806,6 +23071,11 @@
   },
   {
     "category": "truck",
+    "brand": "FUSO",
+    "model": "eCanter"
+  },
+  {
+    "category": "truck",
     "brand": "Hino",
     "model": "155"
   },
@@ -23077,6 +23347,11 @@
   {
     "category": "truck",
     "brand": "Mercedes-Benz",
+    "model": "eActros 600"
+  },
+  {
+    "category": "truck",
+    "brand": "Mercedes-Benz",
     "model": "Econic"
   },
   {
@@ -23238,6 +23513,11 @@
     "category": "truck",
     "brand": "Sinotruk",
     "model": "SITRAK C9H"
+  },
+  {
+    "category": "truck",
+    "brand": "Tesla",
+    "model": "Semi"
   },
   {
     "category": "truck",
@@ -23692,6 +23972,11 @@
   {
     "category": "motorcycle",
     "brand": "Honda",
+    "model": "CB1000 Hornet"
+  },
+  {
+    "category": "motorcycle",
+    "brand": "Honda",
     "model": "CB500F"
   },
   {
@@ -23732,7 +24017,17 @@
   {
     "category": "motorcycle",
     "brand": "Honda",
+    "model": "NT1100"
+  },
+  {
+    "category": "motorcycle",
+    "brand": "Honda",
     "model": "Rebel 500"
+  },
+  {
+    "category": "motorcycle",
+    "brand": "Honda",
+    "model": "XL750 Transalp"
   },
   {
     "category": "motorcycle",
@@ -24147,12 +24442,22 @@
   {
     "category": "motorcycle",
     "brand": "Yamaha",
+    "model": "Tracer 7"
+  },
+  {
+    "category": "motorcycle",
+    "brand": "Yamaha",
     "model": "Tracer 9"
   },
   {
     "category": "motorcycle",
     "brand": "Yamaha",
     "model": "XSR700"
+  },
+  {
+    "category": "motorcycle",
+    "brand": "Yamaha",
+    "model": "XSR900 GP"
   },
   {
     "category": "motorcycle",
